@@ -1,9 +1,12 @@
-# Pulse
+# Pulse project 
+
+(WEB-developer course by Ivan Petrichenko)
+
 Site is available here: https://mrs-raspberry.github.io/Pulse/ 
 
 HTML and CSS practice with small interactive elements added. 
 
-Major aspects:
+### Major aspects:
 * use of BEM methodology,
 * adaptive web design,
 * FlexBox content alignment,
@@ -20,9 +23,11 @@ Major aspects:
 # Пульсометры
 Сайт доступен по ссылке: https://mrs-raspberry.github.io/Pulse/ 
 
+(курс WEB-разработчика Ивана Петриченко)
+
 Практика HTML и CSS с небольшими интерактивными элементами.
 
-Основные аспекты:
+### Основные аспекты:
  
 * использование методологии БЭМ,
 * адаптивная верстка,
