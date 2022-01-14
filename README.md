@@ -39,5 +39,5 @@ HTML and CSS practice with small interactive elements added.
 * отправка данных на почту (ajax, php mailer),
 * валидация форм на сайте (jQuery Validation Plugin),
 * маска ввода номера телефона (jQuery.Maskedinput js),
-* плавный скрол на верх страницы, анимированные эл-ты (animate.css, wow.js),
+* плавный скролл на верх страницы, анимированные эл-ты (animate.css, wow.js),
 * сборка проекта выполнена с помощью Gulp.
