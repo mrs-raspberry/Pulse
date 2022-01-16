@@ -4,7 +4,7 @@
 
 Site is available here: https://mrs-raspberry.github.io/Pulse/ 
 
-HTML and CSS practice with small interactive elements added. 
+HTML and CSS practice with a number interactive elements added. 
 
 ### Major aspects:
 * use of BEM methodology,
@@ -25,7 +25,7 @@ HTML and CSS practice with small interactive elements added.
 
 (курс WEB-разработчик Ивана Петриченко)
 
-Практика HTML и CSS с небольшими интерактивными элементами.
+Практика HTML и CSS с некоторыми интерактивными элементами.
 
 ### Основные аспекты:
  
