@@ -23,7 +23,7 @@ HTML and CSS practice with small interactive elements added.
 # Пульсометры
 Сайт доступен по ссылке: https://mrs-raspberry.github.io/Pulse/ 
 
-(курс WEB-разработчика Ивана Петриченко)
+(курс WEB-разработчик Ивана Петриченко)
 
 Практика HTML и CSS с небольшими интерактивными элементами.
 
